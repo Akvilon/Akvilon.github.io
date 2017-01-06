@@ -789,10 +789,6 @@ input[type="radio"]:checked + label:before {
 }
 
 
-.icons_list a {
-	display: block;
-}
-
 .content_icon_1 {
 	width: 69px;
 	height: 64px;
@@ -840,10 +836,6 @@ input[type="radio"]:checked + label:before {
 	margin-top: -32px;
 	margin-left: 15.8%;
 }
-
-
-
-
 
 
 
